@@ -1,0 +1,2 @@
+# this cmd will ignore all files with ".log" extension and it won't show up with 'git status' 
+*.log
